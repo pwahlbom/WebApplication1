@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<ArrayOfArrayOfArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ArrayOfArrayOfString>
+    <ArrayOfString>
+      <string>Welcome to ASP.NET Core</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>c:\users\philip\documents\visual studio 2015\Projects\WebApplication1\src\WebApplication1\Views\Home\About.cshtml</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>c:\users\philip\documents\visual studio 2015\Projects\WebApplication1\src\WebApplication1\Views\Home\Contact.cshtml</string>
+    </ArrayOfString>
+  </ArrayOfArrayOfString>
+</ArrayOfArrayOfArrayOfString>
